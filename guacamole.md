@@ -1,5 +1,5 @@
 # Ingredients
-- avacado 
-- lime 
-- salt 
+- avacad ($4) 
+- lime ($1) 
+- salt ($1) 
 # Instructions
